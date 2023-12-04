@@ -15,15 +15,3 @@ Broadly, our project focuses on the following three objectives:
 ## Project Showcase
 
 ![Prohealth_page-0001](https://github.com/aditiagarwal-02/lifestly-diseases-monitoring-using-machine-learning/assets/74978196/9b69a587-51b0-4450-8f9e-7bf77d174bdf)
-
-
-
-
-
-
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
